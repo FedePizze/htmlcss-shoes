@@ -40,7 +40,7 @@ h2{
     width: 100%;
 }
 
-.text-hover img{
+.center img{
     display: inline-block;
     object-fit: contain;
 }
